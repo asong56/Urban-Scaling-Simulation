@@ -6,7 +6,7 @@ authors:
 title: "Urban Scaling Simulator"
 version: 1.0.0
 date-released: 2026-01-25
-url: "https://github.com/BarryS27/Urban-Scaling-Simulator"
+url: "https://github.com/asong56/Urban-Scaling-Simulation"
 keywords:
   - urban scaling
   - endogenous growth
@@ -23,7 +23,7 @@ references:
     issue: 17
     year: 2007
     pages: "7301-7306"
-    doi: "10.1073/pnas.0610172104" #
+    doi: "10.1073/pnas.0610172104"
   - type: article
     authors:
       - family-names: "Romer"
@@ -33,7 +33,7 @@ references:
     volume: 98
     issue: 5
     year: 1990
-    url: "https://www.journals.uchicago.edu/doi/abs/10.1086/261725" #
+    url: "https://www.journals.uchicago.edu/doi/abs/10.1086/261725"
   - type: article
     authors:
       - family-names: "Solow"
@@ -44,7 +44,7 @@ references:
     issue: 1
     year: 1956
     pages: "65-94"
-    doi: "10.2307/1884513" #
+    doi: "10.2307/1884513"
   - type: article
     authors:
       - family-names: "Stark"
@@ -57,7 +57,7 @@ references:
     issue: 1
     year: 1989
     pages: "1-14"
-    doi: "10.2307/2061490" #
+    doi: "10.2307/2061490"
   - type: article
     authors:
       - family-names: "Verhulst"
@@ -67,14 +67,14 @@ references:
     volume: 10
     year: 1838
     pages: "113-121"
-    url: "https://www.neo-classical-physics.info/uploads/3/4/3/6/34363841/verhulst_-_law_of_population.pdf" #
+    url: "https://www.neo-classical-physics.info/uploads/3/4/3/6/34363841/verhulst_-_law_of_population.pdf"
   - type: article
     authors:
       - family-names: "Lanchester"
         given-names: "Frederick William"
     title: "Aircraft in Warfare: The Dawn of the Fourth Arm"
     year: 1916
-    url: "https://en.wikisource.org/wiki/Aircraft_in_Warfare_(1916)/Chapter_5" #
+    url: "https://en.wikisource.org/wiki/Aircraft_in_Warfare_(1916)/Chapter_5"
   - type: article
     authors:
       - family-names: "Gini"
@@ -82,7 +82,7 @@ references:
     title: "Variabilite e Mutabilita"
     year: 1912
     journal: "Tipografia Di Paolo Cuppini, Bologna"
-    url: "https://www.scirp.org/reference/referencespapers?referenceid=3750038" #
+    url: "https://www.scirp.org/reference/referencespapers?referenceid=3750038"
   - type: article
     authors:
       - family-names: "Atkinson"
@@ -93,7 +93,7 @@ references:
     issue: 3
     year: 1970
     pages: "244-263"
-    doi: "10.1016/0022-0531(70)90039-6" #
+    doi: "10.1016/0022-0531(70)90039-6"
   - type: book
     authors:
       - family-names: "Mincer"
@@ -101,7 +101,7 @@ references:
     title: "Schooling, Experience, and Earnings"
     publisher: "National Bureau of Economic Research (NBER)"
     year: 1974
-    url: "https://www.nber.org/books-and-chapters/schooling-experience-and-earnings" #
+    url: "https://www.nber.org/books-and-chapters/schooling-experience-and-earnings"
   - type: book
     authors:
       - family-names: "Gibrat"
@@ -109,4 +109,4 @@ references:
     title: "Les inégalités économiques"
     publisher: "Librairie du Recueil Sirey"
     year: 1931
-    url: "https://archive.org/details/lesinegaliteseco0000gibr" #
+    url: "https://archive.org/details/lesinegaliteseco0000gibr"
