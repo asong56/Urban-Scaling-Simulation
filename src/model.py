@@ -170,7 +170,7 @@ class CityEngine:
         eta = self.get_migration_sensitivity()
         benchmark_morale = 25
         
-        raw_migration = eta * mp.log(max(morale, 1e-9) / benchmark_morale)
+        raw_migration = eta * np.log(max(morale, 1e-9) / benchmark_morale)
         MAX_OUTFLOW_RATE = np.log(0.7)                          # ln(0.7) ≈ -0.356 (represents max 30% drop)
         migration = max(MAX_OUTFLOW_RATE, raw_migration)
 
