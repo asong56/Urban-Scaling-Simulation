@@ -7,9 +7,11 @@ def run_simulation(round_name, intellect, population, wealth, cost, tax_baseline
     edu_rates = [round(edu_baseline * factor, 3) for factor in [0.5, 0.75, 1.0, 1.25, 1.5]]
     tax_rates = [round(tax_baseline * factor, 3) for factor in [0.5, 0.75, 1.0, 1.25, 1.5]]
     
-    os.makedirs("data", exist_ok=True)
+    _src_dir = os.path.dirname(os.path.abspath(__file__))
+    _data_dir = os.path.join(_src_dir, "..", "data")
+    os.makedirs(_data_dir, exist_ok=True)
     today_str = datetime.datetime.now().strftime("%Y%m%d")
-    filepath = f'../data/results_{today_str}.csv'
+    filepath = os.path.join(_data_dir, f"results_{today_str}.csv")
 
     config = {
         "intellect": intellect,
