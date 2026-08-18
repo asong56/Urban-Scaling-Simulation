@@ -3,7 +3,7 @@
   "week": "2026-33",
   "month_total_commits": 0,
   "total_commits": 0,
-  "days_run": 0,
+  "days_run": 1,
   "planned_days": [
     1,
     2,
@@ -11,5 +11,7 @@
     4,
     6
   ],
-  "completed_days": []
+  "completed_days": [
+    "2026-08-18"
+  ]
 }
